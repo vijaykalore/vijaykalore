@@ -9,7 +9,7 @@ Computer Science Engineer · Data Scientist · Data Analyst · Generative AI
 [📧 vijaykalore.ds@gmail.com](mailto:vijaykalore.ds@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vijaykalore) · [GitHub](https://github.com/vijaykalore)
 
 ---
-Animated roles
+
 
 <p align="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
