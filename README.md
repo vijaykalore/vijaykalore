@@ -9,6 +9,18 @@ Computer Science Engineer · Data Scientist · Data Analyst · Generative AI
 [📧 vijaykalore.ds@gmail.com](mailto:vijaykalore.ds@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vijaykalore) · [GitHub](https://github.com/vijaykalore)
 
 ---
+Animated roles
+
+<p align="left">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+<img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FEEA9F?logo=huggingface&logoColor=black" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
+</p>
+
 
 Hi — I’m Vijay. I turn data into insights and ideas into reliable AI products. I enjoy building end-to-end systems (from data collection to deployment) and working on products that save people time—like tools that summarize long videos or automate job search workflows. I balance practical engineering with rigorous evaluation so models actually help users.
 
