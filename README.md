@@ -95,6 +95,26 @@ More projects & demos
 
 </details>
 
+<!-- Additional section for Data Analytics Skills -->
+<div style="border:1px solid #e1e4e8; border-radius:12px; padding:24px; background-color: #f0f0f0; margin-top: 24px;">
+  <h3 align="center">Data Analytics Skills</h3>
+  <p align="center">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white" />
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C94C?logo=powerbi&logoColor=white" />
+    <img alt="Data Visualization" src="https://img.shields.io/badge/Data%20Visualization-00BFFF?logo=visualstudio&logoColor=white" />
+  </p>
+  <p style="text-align: center;">
+    End-to-end data analytics skills including:
+    - Data cleaning and preprocessing
+    - Exploratory Data Analysis (EDA)
+    - Data visualization best practices
+    - Business Intelligence (BI) reporting
+    - Dashboard development for insights
+  </p>
+</div>
 ---
 
 Experience (select)
