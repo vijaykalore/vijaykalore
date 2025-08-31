@@ -142,7 +142,7 @@ If you want something built that actually ships and helps people, let's talk. I 
 
 — Vijay
 
-_Last updated: August 2025_
+_Last updated: September 2025_
 
 <p align="center" style="margin-top:18px;">
   <!-- Small, tasteful CTA badge -->
