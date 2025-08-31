@@ -120,6 +120,7 @@ More projects & demos
 Experience (select)
 - Generative AI Intern — improved LLM chatbot UX with targeted prompt engineering and tuning; prototyped RAG workflows and evaluation pipelines.
 - Data Science Intern — built ML models and deep learning pipelines, delivered reproducible training code and deployment blueprints.
+- LLMOps Intern — contributed to VertexOps LLMOps platform for GenAI deployment: implemented end-to-end model deployment pipelines (CI/CD), prompt engineering and RAG integration, monitoring and evaluation tooling, and delivered deployment blueprints and documentation.
 
 How I work
 - Start with the user problem and measurable success criteria.
