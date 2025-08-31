@@ -25,7 +25,7 @@
 </p>
 
 # Vijay Kalore
-Computer Science Engineer · Data Scientist · Generative AI · MLOps
+Computer Science Engineer · Data Scientist · Generative AI · MLOps · LLMOps
 [📧 vijaykalore.ds@gmail.com](mailto:vijaykalore.ds@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vijaykalore) · [GitHub](https://github.com/vijaykalore)
 
 ---
