@@ -83,6 +83,8 @@ LLMOps Playground (experimental)
 - Why: Fast iteration on prompt strategies, retrieval layers, and performance metrics before productionizing.
 - Tech: FastAPI, FAISS/Milvus, Docker, W&B / Prometheus for metrics.
 
+And many more
+
 Open-source toolkit — Resume Analyzer (idea → prototype)
 - What: Pipeline that scores resumes vs job descriptions and provides explainable edits and examples.
 - Why: Reusable, practical tool for applicants and small recruiters.
