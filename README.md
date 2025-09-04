@@ -48,7 +48,7 @@ What I build
 - Robust APIs and interfaces (FastAPI, Streamlit, React) for real users.
 - Reliable pipelines and monitoring (CI/CD, tests, model & data validation).
 
-Featured tech (modern & practical)
+Featured tech (Modern & Practical)
 - Languages: Python, SQL, Bash
 - ML/DL: PyTorch, TensorFlow, Hugging Face Transformers, Diffusers, Whisper
 - LLM / GenAI: LangChain, Llama / Llama2, Bloom, Mistral, Vicuna, instruction tuning, LoRA, PEFT, RLHF techniques
